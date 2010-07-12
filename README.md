@@ -38,6 +38,10 @@ The [ChicagoRuby organization chart](http://github.com/chicagoruby/How_ChicagoRu
 			<td>For the day when we expand</td> 
 		</tr> 
 		<tr> 
+			<td>Hack Nights</td> 
+			<td>A favorite activity for our group</td> 
+		</tr> 
+		<tr> 
 			<td>Shared Group Operations</td> 
 			<td>These are functions that touch all of our meetings &#38; activities.</td> 
 		</tr> 
@@ -51,7 +55,7 @@ The [ChicagoRuby organization chart](http://github.com/chicagoruby/How_ChicagoRu
 		</tr> 
 		<tr> 
 			<td>Tech Support</td> 
-			<td>Be responsive to requests in our forums (Google Groups, Meetup.com, etc.)</td> 
+			<td>Be responsive to requests in our forums (Google Groups, GitHub, Meetup.com, etc.)</td> 
 		</tr> 
 		<tr> 
 			<td>Publisher Relations</td> 
