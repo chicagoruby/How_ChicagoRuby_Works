@@ -12,7 +12,7 @@ Organization
 ==
 The ChicagoRuby organization chart shows functions, not individuals. Some organizers perform multiple functions, while some functions are so heavy that they require the attention of multiple organizers.
 
-![ChicagoRuby Organization Chart](/ChicagoRuby_Organization.png "Functions, not individuals")
+![ChicagoRuby Organization Chart](../ChicagoRuby_Organization.png "Functions, not individuals")
 
 
 
