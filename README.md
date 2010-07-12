@@ -1,7 +1,7 @@
 Purpose of This Document
 ==
 
-The purpose of this document is to increase ChicagoRuby's truck number. An organization's truck number is the number of people in the organization who can be hit by a truck without disrupting the operations of the organization.
+The purpose of this document is to increase ChicagoRuby's truck number. An organization's truck number is the number of people in the organization who can be hit by a truck without disrupting the operations of the organization. The higher, the better.
 
 Or, expressed more optimistically: If every member of the [ChicagoRuby](http://chicagoruby.org) Organizer Team suddenly decides to leave Chicago for various private islands in the tropics, this document will enable a new team of organizers to pick up where we left off.
 
@@ -35,7 +35,7 @@ The [ChicagoRuby organization chart](http://github.com/chicagoruby/How_ChicagoRu
 		</tr> 
 		<tr> 
 			<td>Add'l Locations</td> 
-			<td>For the day when we expand</td> 
+			<td>Leaving room for expansion!</td> 
 		</tr> 
 		<tr> 
 			<td>Hack Nights</td> 
