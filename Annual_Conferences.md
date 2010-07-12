@@ -33,4 +33,4 @@ Sponsors continue to support our conferences because we offer a crisp & professi
 
 Getting Attendees
 ==
-With the right speakers and sponsors in place, the attendees will come.
+With the right speakers, sponsors, venue, and professionalism, the attendees will come.
