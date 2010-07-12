@@ -18,7 +18,7 @@ Build a team. ChicagoRuby is successful because we have several members (current
 Have a Consistent Meeting Schedule
 ==
 
-ChicagoRuby always meets on the same day of the month, and while we might switch the location, we never switch a date. Here's why: When people are planning their schedules, it's easier if they know that every first Tuesday they have a ChicagoRuby meeting. We can roll with the punches if the topic and/or venue changes. But date changes can be frustrating, and when members get frustrated they stop coming.
+ChicagoRuby hosts multiple events that always meet on the same day of the month. While we might switch the location, we never switch a date. Here's why: When people are planning their schedules, it's easier if they know that every first Tuesday they have a ChicagoRuby meeting. We can roll with the punches if the topic and/or venue changes. But date changes can be frustrating, and when members get frustrated they stop coming.
 
 
 Get Great Topics & Presenters
