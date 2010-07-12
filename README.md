@@ -18,3 +18,5 @@ To learn more about our group, check out the following:
 * [WindyCityRails](http://windycityrails.org) site. Our first annual conference, launched in 2008 to a sell-out crowd.
 
 Questions? You can reach the organizer team through our [Contact Form](http://chicagoruby.org/contact) or via organizers -at- chicagoruby -dot- org.
+
+
