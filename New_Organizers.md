@@ -24,4 +24,4 @@ ChicagoRuby hosts multiple events that always meet on the same day of the month.
 Get Great Topics & Presenters
 ==
 
-Organizers might present sometimes, but members really want to hear from folks that they don't see all the time. We've been blessed w/r/t presenters & topics. Lately, good presenters have been coming to us (we have a team and we're consistent). Also, it helps to have a set of [presenter guidelines](http://chicagoruby.org/about-us/special-notes-for-presenters/) so that the group doesn't get stuck hearing sales pitches.
+Organizers might present sometimes, but members really want to hear from folks that they don't see all the time. We've been blessed w/r/t presenters & topics. Lately, good presenters have been approaching us about presenting. They see that we have a great team and we're consistent with our dates. Also, it helps to have a set of [presenter guidelines](http://chicagoruby.org/about-us/special-notes-for-presenters/) so that the group doesn't get stuck hearing a sales pitch.
