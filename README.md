@@ -18,7 +18,7 @@ The [ChicagoRuby organization chart](http://github.com/chicagoruby/How_ChicagoRu
 			<td><strong>Primary Responsibility(ies)</strong></td> 
 		</tr> 
 		<tr> 
-			<td>ChicagoRuby.org Membership</td> 
+			<td>ChicagoRuby Members</td> 
 			<td>Our customers. The people we (the organizers) serve.</td> 
 		</tr> 
 		<tr> 
@@ -26,23 +26,19 @@ The [ChicagoRuby organization chart](http://github.com/chicagoruby/How_ChicagoRu
 			<td>Recruit other organizers &#38; coordinate activities between organizers</td> 
 		</tr> 
 		<tr> 
-			<td>ChicagoRuby.org Elmhurst</td> 
+			<td>Elmhurst</td> 
 			<td>Run the Elmhurst meeting agenda</td> 
 		</tr> 
 		<tr> 
-			<td>ChicagoRuby.org Downtown (ITA)</td> 
-			<td>Run the Downtown meeting agenda</td> 
+			<td>ThoughtWorks</td> 
+			<td>Run the Downtown meeting agenda at ThoughtWorks</td> 
 		</tr> 
 		<tr> 
-			<td>Chirb ThoughtWorks</td> 
-			<td>Run the Chirb meeting agenda</td> 
+			<td>Add'l Locations</td> 
+			<td>For the day when we expand</td> 
 		</tr> 
 		<tr> 
-			<td>WindyCityRails</td> 
-			<td>Run WindyCityRails</td> 
-		</tr> 
-		<tr> 
-			<td>Group Operations</td> 
+			<td>Shared Group Operations</td> 
 			<td>These are functions that touch all of our meetings &#38; activities.</td> 
 		</tr> 
 		<tr> 
@@ -68,7 +64,16 @@ The [ChicagoRuby organization chart](http://github.com/chicagoruby/How_ChicagoRu
 		<tr> 
 			<td>Social Media</td> 
 			<td>	Ensure that our tweets &#38; other social media are fresh &#38; accurate</td> 
+		</tr>
+		<tr> 
+			<td>WindyCityRails</td> 
+			<td>Run WindyCityRails</td> 
 		</tr> 
+		<tr> 
+			<td>WindyCityDB</td> 
+			<td>Run WindyDB</td> 
+		</tr> 
+		 
 	</table>
 
 
