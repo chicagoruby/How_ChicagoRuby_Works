@@ -1,5 +1,3 @@
-How ChicagoRuby Works
-
 Purpose of this Document
 ==
 
