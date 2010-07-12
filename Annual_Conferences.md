@@ -6,11 +6,11 @@ As of this writing, our annual conferences are:
 * [WindyCityRails](http://windycityrails.org)
 * [WindyCityDB](http://windycitydb.org)
 
-We launched our first conference, WindyCityRails, for two reasons:
+We launched our first conference, WindyCityRails, for these reasons:
 
 * To fill a vacuum in the Midwest conference space. Before WindyCityRails, there were no midwest-based Ruby or Rails conferences.
 * To cover the monthly expenses of ChicagoRuby, including [Meetup.com](http://meetup.com/chicagoruby), video taping, and any other expenses that the group may incur.
-* To give money to charity. After we cover our expenses, we give profits to the [Greater Chicago Food Depository](http://chicagosfoodbank.org).
+* To give back to the community. After we cover our expenses, we give profits to the [Greater Chicago Food Depository](http://chicagosfoodbank.org).
 
 
 Getting Speakers
