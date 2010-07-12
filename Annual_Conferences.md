@@ -24,6 +24,7 @@ When the best speakers present at the best conferences, everybody wins.
 Getting Sponsors
 ==
 Companies choose to sponsor our conferences for these reasons:
+
 * They believe in open source.
 * They want to recruit our attendees.
 * They have products and/or services to market to our attendees.
