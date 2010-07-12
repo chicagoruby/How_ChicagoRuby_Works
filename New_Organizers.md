@@ -1,8 +1,8 @@
 Ideas for New Organizers: What Works
 ==
-If you are reading this as a brand new user group organizer here are a few things that have worked well for ChicagoRuby since 2007:
+If you are a new user group organizer, here are a few things that have worked well for ChicagoRuby since 2007.
 
-Be Visible in Google
+Be Very Visible in Google
 ==
 
 Make sure your group is highly visible in Google. We renamed our group (it used to be called "the Chicago Area Ruby on Rails Meetup Group") and grabbed a domain name that matched the group name. We also made sure that several of our other sites linked to ChicagoRuby.org.
