@@ -15,7 +15,7 @@ The [ChicagoRuby organization chart](http://github.com/chicagoruby/How_ChicagoRu
 <table> 
 		<tr> 
 			<td><strong>Function</strong></td> 
-			<td><strong>Primary Responsibility(ies)</strong></td> 
+			<td><strong>Discussion & Comments</strong></td> 
 		</tr> 
 		<tr> 
 			<td>ChicagoRuby Members</td> 
