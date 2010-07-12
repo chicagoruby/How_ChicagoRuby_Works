@@ -12,23 +12,64 @@ Organization
 ==
 The [ChicagoRuby organization chart](http://github.com/chicagoruby/How_ChicagoRuby_Works/raw/master/ChicagoRuby_Organization.png) shows functions, not individuals. Some organizers perform multiple functions, while some functions are so heavy that they require the attention of multiple organizers.
 
-Org Chart Explanations (org chart is attached in PNG format)
-|*Function*|*Primary Responsibility(ies)*|
-|ChicagoRuby.org Membership|Our customers. The people we (the organizers) serve.|
-|Organizer Coordinator|Recruit other organizers & coordinate activities between organizers|
-|ChicagoRuby.org Elmhurst|Run the Elmhurst meeting agenda|
-|ChicagoRuby.org Downtown (ITA)|Run the Downtown meeting agenda|
-|Chirb ThoughtWorks|Run the Chirb meeting agenda|
-|WindyCityRails|Run WindyCityRails|
-|WindyCityDB|Run WindyCityDB|
-|Group Operations|These are functions that touch all of our meetings & activities.|
-|Finance|	Pay for WindyCityRails, Meetup.com, & other expenses|
-|Video|Record & edit videos of our meetings, conferences, and activities|
-|Tech Support|Be responsive to requests in our forums (Google Groups, Meetup.com, etc.)|
-|Publisher Relations|Get books & ensure that book reviews get written|
-|Meetup.com Mgmt|Ensure that our calendar & other Meetup.com info remains up-to-date|
-|Social Media|	Ensure that our tweets & other social media are fresh & accurate|
-
+<table> 
+		<tr> 
+			<td><strong>Function</strong></td> 
+			<td><strong>Primary Responsibility(ies)</strong></td> 
+		</tr> 
+		<tr> 
+			<td>ChicagoRuby.org Membership</td> 
+			<td>Our customers. The people we (the organizers) serve.</td> 
+		</tr> 
+		<tr> 
+			<td>Organizer Coordinator</td> 
+			<td>Recruit other organizers &#38; coordinate activities between organizers</td> 
+		</tr> 
+		<tr> 
+			<td>ChicagoRuby.org Elmhurst</td> 
+			<td>Run the Elmhurst meeting agenda</td> 
+		</tr> 
+		<tr> 
+			<td>ChicagoRuby.org Downtown (ITA)</td> 
+			<td>Run the Downtown meeting agenda</td> 
+		</tr> 
+		<tr> 
+			<td>Chirb ThoughtWorks</td> 
+			<td>Run the Chirb meeting agenda</td> 
+		</tr> 
+		<tr> 
+			<td>WindyCityRails</td> 
+			<td>Run WindyCityRails</td> 
+		</tr> 
+		<tr> 
+			<td>Group Operations</td> 
+			<td>These are functions that touch all of our meetings &#38; activities.</td> 
+		</tr> 
+		<tr> 
+			<td>Finance</td> 
+			<td>	Pay for WindyCityRails, Meetup.com, &#38; other expenses</td> 
+		</tr> 
+		<tr> 
+			<td>Video</td> 
+			<td>Record &#38; edit videos of our meetings and activities</td> 
+		</tr> 
+		<tr> 
+			<td>Tech Support</td> 
+			<td>Be responsive to requests in our forums (Google Groups, Meetup.com, etc.)</td> 
+		</tr> 
+		<tr> 
+			<td>Publisher Relations</td> 
+			<td>Get books &#38; ensure that book reviews get written</td> 
+		</tr> 
+		<tr> 
+			<td>Meetup.com Mgmt</td> 
+			<td>Ensure that our calendar &#38; other Meetup.com info remains up-to-date</td> 
+		</tr> 
+		<tr> 
+			<td>Social Media</td> 
+			<td>	Ensure that our tweets &#38; other social media are fresh &#38; accurate</td> 
+		</tr> 
+	</table>
 
 
 More Info
