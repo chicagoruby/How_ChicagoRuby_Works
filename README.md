@@ -12,6 +12,24 @@ Organization
 ==
 The [ChicagoRuby organization chart](http://github.com/chicagoruby/How_ChicagoRuby_Works/raw/master/ChicagoRuby_Organization.png) shows functions, not individuals. Some organizers perform multiple functions, while some functions are so heavy that they require the attention of multiple organizers.
 
+Org Chart Explanations (org chart is attached in PNG format)
+|*Function*|*Primary Responsibility(ies)*|
+|ChicagoRuby.org Membership|Our customers. The people we (the organizers) serve.|
+|Organizer Coordinator|Recruit other organizers & coordinate activities between organizers|
+|ChicagoRuby.org Elmhurst|Run the Elmhurst meeting agenda|
+|ChicagoRuby.org Downtown (ITA)|Run the Downtown meeting agenda|
+|Chirb ThoughtWorks|Run the Chirb meeting agenda|
+|WindyCityRails|Run WindyCityRails|
+|WindyCityDB|Run WindyCityDB|
+|Group Operations|These are functions that touch all of our meetings & activities.|
+|Finance|	Pay for WindyCityRails, Meetup.com, & other expenses|
+|Video|Record & edit videos of our meetings, conferences, and activities|
+|Tech Support|Be responsive to requests in our forums (Google Groups, Meetup.com, etc.)|
+|Publisher Relations|Get books & ensure that book reviews get written|
+|Meetup.com Mgmt|Ensure that our calendar & other Meetup.com info remains up-to-date|
+|Social Media|	Ensure that our tweets & other social media are fresh & accurate|
+
+
 
 More Info
 ==
