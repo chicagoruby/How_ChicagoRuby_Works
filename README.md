@@ -55,7 +55,7 @@ The [ChicagoRuby organization chart](http://github.com/chicagoruby/How_ChicagoRu
 		</tr> 
 		<tr> 
 			<td>Tech Support</td> 
-			<td>Be responsive to requests in our forums (Google Groups, GitHub, Meetup.com, etc.)</td> 
+			<td>Be responsive to requests in our forums (Google Groups, Meetup.com, etc.)</td> 
 		</tr> 
 		<tr> 
 			<td>Publisher Relations</td> 
@@ -67,7 +67,7 @@ The [ChicagoRuby organization chart](http://github.com/chicagoruby/How_ChicagoRu
 		</tr> 
 		<tr> 
 			<td>Social Media</td> 
-			<td>	Ensure that our tweets &#38; other social media are fresh &#38; accurate</td> 
+			<td>	Ensure that our tweets, GitHub repo, &#38; other social media are fresh &#38; useful</td> 
 		</tr>
 		<tr> 
 			<td>WindyCityRails</td> 
