@@ -7,7 +7,7 @@ Be Very Visible in Google
 
 Make sure your group is highly visible in Google. We renamed our group (it used to be called "the Chicago Area Ruby on Rails Meetup Group") and grabbed a domain name that matched the group name. We also made sure that several of our other sites linked to ChicagoRuby.org.
 
-Within months after we did that, we became the #1 item on page one for Chicago Ruby on Rails and other related searches. When we merged with [Chirb](http://chirb.org), we kept the ChicagoRuby name because it ranks higher in the search results.
+Within months after we did that, we became the #1 item on page one for [Chicago Ruby on Rails](http://www.google.com/#hl=en&source=hp&q=chicago+ruby+on+rails&aq=f&aqi=g1&aql=&oq=&gs_rfai=CJy43yI87TMjiMY-GNKHCgNoMAAAAqgQFT9AqJSU&fp=36ec6be010d257f) and other related searches. When we merged with [Chirb](http://chirb.org), we kept the ChicagoRuby name because it ranks higher in the search results.
 
 Focus on the Team
 ==
