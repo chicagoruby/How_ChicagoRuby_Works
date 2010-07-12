@@ -8,9 +8,17 @@ Or, expressed more optimistically: If every member of the [ChicagoRuby](http://c
 Good luck, organizers!
 
 
-Overview
+Organization
 ==
-To learn more about our group, check out the following:
+The ChicagoRuby organization chart shows functions, not individuals. Some organizers perform multiple functions, while some functions are so heavy that they require the attention of multiple organizers.
+
+![ChicagoRuby Organization Chart](/ChicagoRuby_Organization.png "Functions, not individuals")
+
+
+
+More Info
+==
+To learn more about our group, browse this archive in GitHub and check out the following:
 
 * [ChicagoRuby](http://chicagoruby.org) web site. Great place to find general information about ChicagoRuby.
 * [ChicagoRuby Meetup](http://meetup.com/chicagoruby) site. This is how we manage our calendar. Saves us tons of time.
