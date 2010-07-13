@@ -41,7 +41,7 @@ The [ChicagoRuby organization chart](http://github.com/chicagoruby/How_ChicagoRu
 		</tr> 
 		<tr> 
 			<td>Video</td> 
-			<td>Record &#38; edit videos of our meetings and activities</td> 
+			<td>To continuously improve our process for producing videos of our meetings and activities</td> 
 		</tr> 
 		<tr> 
 			<td>Tech Support</td> 
