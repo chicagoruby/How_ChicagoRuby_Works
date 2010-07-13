@@ -3,7 +3,7 @@ Video
 
 Someone once asked the question: "If we make our meetings and conferences available on video, why would anyone attend?"
 
-Why indeed. One could ask the same question about professional sports teams. Pro games are broadcast all the time, and yet the stadiums remain full. Why? Probably because people know that the live, on-site experience is the real experience.
+Why indeed. One could ask the same question about professional sports teams. Pro games are broadcast all the time, and yet the stadiums remain full. Why? Probably because people know that the live, on-site experience is the _real_ experience.
 
 And videos are great for:
 
