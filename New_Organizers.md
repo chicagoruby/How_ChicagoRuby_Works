@@ -14,11 +14,13 @@ Focus on the Team
 
 Build a team. ChicagoRuby is successful because we have several members (currently seven) on the organizer team pulling together. We don't always agree on tactics, but we certainly agree on the goal, which is to build a great user community.
 
+Since our team works very well together, no single member gets overloaded. We celebrate together when we succeed.
+
 
 Have a Consistent Meeting Schedule
 ==
 
-ChicagoRuby hosts multiple events that always meet on the same day of the month. While we might switch the location, we never switch a date. Here's why: When people are planning their schedules, it's easier if they know that every first Tuesday they have a ChicagoRuby meeting. We can roll with the punches if the topic and/or venue changes. But date changes can be frustrating, and when members get frustrated they stop coming.
+ChicagoRuby hosts multiple events that consistently meet on the same day of the month. While we might switch the location, we never switch a date. Here's why: When people are planning their schedules, it's easier if they know that every first Tuesday they have a ChicagoRuby meeting downtown. We can roll with the punches if the topic and/or venue changes. But date changes can be frustrating, and when members get frustrated they stop coming.
 
 
 Get Great Topics & Presenters
