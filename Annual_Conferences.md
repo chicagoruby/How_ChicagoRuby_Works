@@ -5,6 +5,7 @@ As of this writing, our annual conferences are:
 
 * [WindyCityRails](http://windycityrails.org)
 * [WindyCityDB](http://windycitydb.org)
+* [WindyCityGo](http://windycitygo.org)
 
 We launched our first conference, WindyCityRails, for these reasons:
 
