@@ -67,6 +67,10 @@ The [ChicagoRuby organization chart](http://github.com/chicagoruby/How_ChicagoRu
 			<td>WindyCityDB</td> 
 			<td>Run WindyDB</td> 
 		</tr> 
+		<tr> 
+			<td>WindyCityGo</td> 
+			<td>Run WindyGo</td> 
+		</tr> 
 		 
 	</table>
 
