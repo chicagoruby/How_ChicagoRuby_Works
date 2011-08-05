@@ -37,11 +37,11 @@ The [ChicagoRuby organization chart](http://github.com/chicagoruby/How_ChicagoRu
 		</tr> 
 		<tr> 
 			<td>Finance</td> 
-			<td>	Pay for WindyCityRails, Meetup.com, &#38; other expenses</td> 
+			<td>	Pay for conferences, Meetup.com, &#38; other expenses</td> 
 		</tr> 
 		<tr> 
 			<td>Video</td> 
-			<td>To continuously improve our process for producing videos of our meetings and activities</td> 
+			<td>To continuously improve our process for producing videos of our meetings and events.</td> 
 		</tr> 
 		<tr> 
 			<td>Tech Support</td> 
